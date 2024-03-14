@@ -1,0 +1,47 @@
+{
+  "name": "ok-portfolio",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "vite dev",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint ."
+  },
+  "devDependencies": {
+    "@sveltejs/adapter-auto": "^3.0.0",
+    "@sveltejs/kit": "^2.0.0",
+    "@sveltejs/vite-plugin-svelte": "^3.0.0",
+    "@types/eslint": "8.56.0",
+    "autoprefixer": "^10.4.17",
+    "eslint": "^8.56.0",
+    "eslint-plugin-svelte": "^2.35.1",
+    "postcss": "^8.4.35",
+    "stripe": "^14.20.0",
+    "svelte": "^4.2.7",
+    "svelte-stripe": "^1.1.4",
+    "tailwindcss": "^3.4.1",
+    "vite": "^5.1.5"
+  },
+  "type": "module",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.16.1",
+    "@fal-ai/serverless-client": "^0.8.5",
+    "@fontsource/ibm-plex-mono": "^5.0.8",
+    "@fontsource/lekton": "^5.0.8",
+    "@motionone/svelte": "^10.16.4",
+    "@splidejs/svelte-splide": "^0.2.9",
+    "ai": "^2.2.36",
+    "axios": "^1.6.7",
+    "d3-interpolate": "^3.0.1",
+    "fal": "^0.1.1",
+    "gsap": "^3.12.5",
+    "i": "^0.3.7",
+    "motion": "^10.17.0",
+    "npm": "^10.4.0",
+    "openai": "^4.28.0",
+    "svelte-scrollto": "^0.2.0",
+    "svelte-youtube-embed": "^0.2.3",
+    "three": "^0.162.0"
+  }
+}
