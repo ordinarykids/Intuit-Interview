@@ -1,0 +1,141 @@
+{
+	"/": [
+		"src/routes/+page.js",
+		"src/routes/+layout.js",
+		"src/routes/+layout.js"
+	],
+	"/api/chat-with-functions": [
+		"src/routes/api/chat-with-functions/+server.ts"
+	],
+	"/api/chat-with-tools": [
+		"src/routes/api/chat-with-tools/+server.ts"
+	],
+	"/api/chat": [
+		"src/routes/api/chat/+server.ts"
+	],
+	"/api/completion": [
+		"src/routes/api/completion/+server.ts"
+	],
+	"/api/messages": [
+		"src/routes/api/messages/+server.ts"
+	],
+	"/api/transcription": [
+		"src/routes/api/transcription/+server.ts"
+	],
+	"/create-payment-intent": [
+		"src/routes/create-payment-intent/+server.js"
+	],
+	"/notes": [
+		"src/routes/+layout.js",
+		"src/routes/+layout.js"
+	],
+	"/notes/01": [
+		"src/routes/+layout.js"
+	],
+	"/notes/02": [
+		"src/routes/+layout.js"
+	],
+	"/notes/03": [
+		"src/routes/+layout.js"
+	],
+	"/notes/04": [
+		"src/routes/+layout.js"
+	],
+	"/notes/05": [
+		"src/routes/+layout.js"
+	],
+	"/notes/06": [
+		"src/routes/+layout.js"
+	],
+	"/notes/07": [
+		"src/routes/+layout.js"
+	],
+	"/notes/08": [
+		"src/routes/+layout.js"
+	],
+	"/notes/09": [
+		"src/routes/+layout.js"
+	],
+	"/notes/10": [
+		"src/routes/+layout.js"
+	],
+	"/notes/11": [
+		"src/routes/+layout.js"
+	],
+	"/notes/12": [
+		"src/routes/+layout.js"
+	],
+	"/notes/20": [
+		"src/routes/+layout.js"
+	],
+	"/notes/21": [
+		"src/routes/+layout.js"
+	],
+	"/notes/22": [
+		"src/routes/+layout.js"
+	],
+	"/notes/23": [
+		"src/routes/+layout.js"
+	],
+	"/notes/24": [
+		"src/routes/+layout.js"
+	],
+	"/notes/25": [
+		"src/routes/+layout.js"
+	],
+	"/notes/26": [
+		"src/routes/+layout.js"
+	],
+	"/notes/27": [
+		"src/routes/+layout.js"
+	],
+	"/notes/28": [
+		"src/routes/+layout.js"
+	],
+	"/notes/29": [
+		"src/routes/+layout.js"
+	],
+	"/notes/30": [
+		"src/routes/+layout.js"
+	],
+	"/notes/31": [
+		"src/routes/+layout.js"
+	],
+	"/projects-db/[project]": [
+		"src/routes/projects-db/[project]/+page.js",
+		"src/routes/+layout.js"
+	],
+	"/projects/aleph": [
+		"src/routes/+layout.js"
+	],
+	"/projects/covid-gans": [
+		"src/routes/+layout.js"
+	],
+	"/projects/helix": [
+		"src/routes/+layout.js"
+	],
+	"/projects/mercurius": [
+		"src/routes/+layout.js"
+	],
+	"/projects/nikefree": [
+		"src/routes/+layout.js"
+	],
+	"/projects/surrealist-dreams": [
+		"src/routes/+layout.js"
+	],
+	"/projects/tracy-chapman": [
+		"src/routes/+layout.js"
+	],
+	"/randoms": [
+		"src/routes/+layout.js"
+	],
+	"/subscription": [
+		"src/routes/+layout.js"
+	],
+	"/subscription/payment-intent": [
+		"src/routes/subscription/payment-intent/+server.js"
+	],
+	"/subscription/thanks": [
+		"src/routes/+layout.js"
+	]
+}

@@ -1,0 +1,3516 @@
+{
+"data": [
+{
+"id": 1,
+"attributes": {
+"title": "Nike Free Plus 2",
+"date": "2011-09-23",
+"createdAt": "2023-09-18T04:32:49.473Z",
+"updatedAt": "2024-03-06T22:41:20.706Z",
+"publishedAt": "2023-09-18T04:42:00.794Z",
+"slug": "nike-free",
+"longdescription": "<p class=\"py-4\">As the creative force behind the Nike Free Plus 2 launch, we took the helm in crafting an immersive retail experience that spanned across Nike's influencer stores in Tokyo, London, and the 21 Mercer store in New York City. Leveraging the visual core we devised for the campaign, we transformed each retail space into a dynamic showcase that echoed the fusion of high-end innovation and foundational technology at the heart of the Nike Free brand.</p>\n\n<p class=\"py-4\">A pivotal element of our retail strategy was the innovative use of data visualization, drawing from a year's worth of Nike+ running data across NYC, Tokyo, and London. We developed an application that not only highlighted individual city runs in a random fashion but also painted a vivid picture of each city through the runners' chosen paths. This approach not only showcased the physical journeys but also conceptually highlighted the urban tapestry—streets, parks, and neighborhoods—through the collective athletic endeavors, forming a living, evolving map.</p>\n\n<p class=\"py-4\">For the campaign's visual statement, we created an expansive halftone pattern mural, inspired by the campaign's photography. This wasn't just any halftone pattern; we engineered a custom application that utilized pie charts for the dots, infusing the artwork with a deep technological essence that belied its simple appearance. Further embracing the theme of low-fi technology, we experimented with Moire patterns, crafting several designs that were printed onto hanging glass, spaced a few inches apart. This technique created an engaging visual phenomenon, captivating both pedestrians outside and customers within, as they observed the Moire effect come to life.</p>\n\n<p class=\"py-4\">In every aspect, from data-driven visuals to innovative use of traditional techniques, we didn't just create a retail space; we crafted an experience—a narrative that every visitor could step into and feel the pulse of the Nike Free brand, driven by technology, athleticism, and community.</p>",
+"shortdescription": "NIKE FREE PLUS 2 CITY PACK - VISUAL CENTER CREATING THE BRAND STORY AND MESSAGING FOR NIKE FREE.",
+"specialsauce": "<iframe class=\"mb-8 aspect-video w-full\" src=\"https://www.youtube.com/embed/UahDOGXumQo\" title=\"Nike Free Plus 2 Video Retail\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n<iframe class=\"mb-8 aspect-video w-full\" src=\"https://www.youtube.com/embed/pkqYRPCBCDM\" title=\"Nike Free Plus 2 -  Halftone Video\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+"featuredImage": {
+"data": {
+"id": 1,
+"attributes": {
+"name": "cologne5.jpg",
+"alternativeText": null,
+"caption": null,
+"width": 746,
+"height": 499,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_cologne5.jpg",
+"hash": "thumbnail_cologne5_fa5770a227",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 234,
+"height": 156,
+"size": 9.18,
+"url": "/uploads/thumbnail_cologne5_fa5770a227.jpg"
+},
+"small": {
+"name": "small_cologne5.jpg",
+"hash": "small_cologne5_fa5770a227",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 500,
+"height": 334,
+"size": 45.34,
+"url": "/uploads/small_cologne5_fa5770a227.jpg"
+}
+},
+"hash": "cologne5_fa5770a227",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"size": 102.31,
+"url": "/uploads/cologne5_fa5770a227.jpg",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2023-09-18T04:31:59.413Z",
+"updatedAt": "2024-02-28T04:47:26.396Z"
+}
+}
+},
+"projectImages": {
+"data": [
+{
+"id": 179,
+"attributes": {
+"name": "pathTest06.jpg",
+"alternativeText": null,
+"caption": null,
+"width": 1920,
+"height": 1200,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_pathTest06.jpg",
+"hash": "thumbnail_path_Test06_ec931e26f8",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 245,
+"height": 153,
+"size": 5.64,
+"url": "/uploads/thumbnail_path_Test06_ec931e26f8.jpg"
+},
+"large": {
+"name": "large_pathTest06.jpg",
+"hash": "large_path_Test06_ec931e26f8",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 1000,
+"height": 625,
+"size": 42.77,
+"url": "/uploads/large_path_Test06_ec931e26f8.jpg"
+},
+"medium": {
+"name": "medium_pathTest06.jpg",
+"hash": "medium_path_Test06_ec931e26f8",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 750,
+"height": 469,
+"size": 28.07,
+"url": "/uploads/medium_path_Test06_ec931e26f8.jpg"
+},
+"small": {
+"name": "small_pathTest06.jpg",
+"hash": "small_path_Test06_ec931e26f8",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 500,
+"height": 313,
+"size": 15.67,
+"url": "/uploads/small_path_Test06_ec931e26f8.jpg"
+}
+},
+"hash": "path_Test06_ec931e26f8",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"size": 108.22,
+"url": "/uploads/path_Test06_ec931e26f8.jpg",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-03-06T22:14:11.851Z",
+"updatedAt": "2024-03-06T22:14:11.851Z"
+}
+},
+{
+"id": 180,
+"attributes": {
+"name": "3.jpg",
+"alternativeText": null,
+"caption": null,
+"width": 1200,
+"height": 1807,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_3.jpg",
+"hash": "thumbnail_3_b1ec214937",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 104,
+"height": 156,
+"size": 1.23,
+"url": "/uploads/thumbnail_3_b1ec214937.jpg"
+},
+"medium": {
+"name": "medium_3.jpg",
+"hash": "medium_3_b1ec214937",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 498,
+"height": 750,
+"size": 26.34,
+"url": "/uploads/medium_3_b1ec214937.jpg"
+},
+"small": {
+"name": "small_3.jpg",
+"hash": "small_3_b1ec214937",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 332,
+"height": 500,
+"size": 9.53,
+"url": "/uploads/small_3_b1ec214937.jpg"
+},
+"large": {
+"name": "large_3.jpg",
+"hash": "large_3_b1ec214937",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 664,
+"height": 1000,
+"size": 55.53,
+"url": "/uploads/large_3_b1ec214937.jpg"
+}
+},
+"hash": "3_b1ec214937",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"size": 244.87,
+"url": "/uploads/3_b1ec214937.jpg",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-03-06T22:14:11.860Z",
+"updatedAt": "2024-03-06T22:14:11.860Z"
+}
+},
+{
+"id": 181,
+"attributes": {
+"name": "pathTest05.jpg",
+"alternativeText": null,
+"caption": null,
+"width": 1920,
+"height": 1200,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_pathTest05.jpg",
+"hash": "thumbnail_path_Test05_92c07db59a",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 245,
+"height": 153,
+"size": 7.06,
+"url": "/uploads/thumbnail_path_Test05_92c07db59a.jpg"
+},
+"small": {
+"name": "small_pathTest05.jpg",
+"hash": "small_path_Test05_92c07db59a",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 500,
+"height": 313,
+"size": 26.63,
+"url": "/uploads/small_path_Test05_92c07db59a.jpg"
+},
+"medium": {
+"name": "medium_pathTest05.jpg",
+"hash": "medium_path_Test05_92c07db59a",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 750,
+"height": 469,
+"size": 62.55,
+"url": "/uploads/medium_path_Test05_92c07db59a.jpg"
+},
+"large": {
+"name": "large_pathTest05.jpg",
+"hash": "large_path_Test05_92c07db59a",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 1000,
+"height": 625,
+"size": 118.87,
+"url": "/uploads/large_path_Test05_92c07db59a.jpg"
+}
+},
+"hash": "path_Test05_92c07db59a",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"size": 498.73,
+"url": "/uploads/path_Test05_92c07db59a.jpg",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-03-06T22:14:11.905Z",
+"updatedAt": "2024-03-06T22:14:11.905Z"
+}
+},
+{
+"id": 6,
+"attributes": {
+"name": "topgroup_edited.jpg",
+"alternativeText": null,
+"caption": null,
+"width": 746,
+"height": 553,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_topgroup_edited.jpg",
+"hash": "thumbnail_topgroup_edited_9b231855f7",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 211,
+"height": 156,
+"size": 6.41,
+"url": "/uploads/thumbnail_topgroup_edited_9b231855f7.jpg"
+},
+"small": {
+"name": "small_topgroup_edited.jpg",
+"hash": "small_topgroup_edited_9b231855f7",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 500,
+"height": 371,
+"size": 31.33,
+"url": "/uploads/small_topgroup_edited_9b231855f7.jpg"
+}
+},
+"hash": "topgroup_edited_9b231855f7",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"size": 68.41,
+"url": "/uploads/topgroup_edited_9b231855f7.jpg",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2023-09-18T04:32:21.933Z",
+"updatedAt": "2023-09-18T04:32:21.933Z"
+}
+},
+{
+"id": 5,
+"attributes": {
+"name": "tokyo.jpg",
+"alternativeText": null,
+"caption": null,
+"width": 746,
+"height": 498,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_tokyo.jpg",
+"hash": "thumbnail_tokyo_532680d915",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 234,
+"height": 156,
+"size": 8.28,
+"url": "/uploads/thumbnail_tokyo_532680d915.jpg"
+},
+"small": {
+"name": "small_tokyo.jpg",
+"hash": "small_tokyo_532680d915",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 500,
+"height": 334,
+"size": 35.57,
+"url": "/uploads/small_tokyo_532680d915.jpg"
+}
+},
+"hash": "tokyo_532680d915",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"size": 79.25,
+"url": "/uploads/tokyo_532680d915.jpg",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2023-09-18T04:32:21.931Z",
+"updatedAt": "2023-09-18T04:32:21.931Z"
+}
+},
+{
+"id": 4,
+"attributes": {
+"name": "home.jpg",
+"alternativeText": null,
+"caption": null,
+"width": 746,
+"height": 500,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_home.jpg",
+"hash": "thumbnail_home_c070d6fce6",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 233,
+"height": 156,
+"size": 6.67,
+"url": "/uploads/thumbnail_home_c070d6fce6.jpg"
+},
+"small": {
+"name": "small_home.jpg",
+"hash": "small_home_c070d6fce6",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 500,
+"height": 335,
+"size": 23.2,
+"url": "/uploads/small_home_c070d6fce6.jpg"
+}
+},
+"hash": "home_c070d6fce6",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"size": 44.83,
+"url": "/uploads/home_c070d6fce6.jpg",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2023-09-18T04:32:21.926Z",
+"updatedAt": "2023-09-18T04:32:21.926Z"
+}
+},
+{
+"id": 3,
+"attributes": {
+"name": "german2.jpg",
+"alternativeText": null,
+"caption": null,
+"width": 746,
+"height": 488,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_german2.jpg",
+"hash": "thumbnail_german2_741149b04f",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 238,
+"height": 156,
+"size": 9,
+"url": "/uploads/thumbnail_german2_741149b04f.jpg"
+},
+"small": {
+"name": "small_german2.jpg",
+"hash": "small_german2_741149b04f",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 500,
+"height": 327,
+"size": 33.33,
+"url": "/uploads/small_german2_741149b04f.jpg"
+}
+},
+"hash": "german2_741149b04f",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"size": 65.32,
+"url": "/uploads/german2_741149b04f.jpg",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2023-09-18T04:32:21.924Z",
+"updatedAt": "2023-09-18T04:32:21.924Z"
+}
+}
+]
+}
+}
+},
+{
+"id": 2,
+"attributes": {
+"title": "Under Styled GAN ",
+"date": null,
+"createdAt": "2023-09-18T04:37:39.328Z",
+"updatedAt": "2024-02-16T04:44:59.146Z",
+"publishedAt": "2023-09-18T04:37:40.601Z",
+"slug": "style-gan",
+"longdescription": null,
+"shortdescription": null,
+"specialsauce": null,
+"featuredImage": {
+"data": {
+"id": 7,
+"attributes": {
+"name": "a ink drawing of a recursive optical illusion (7).png",
+"alternativeText": null,
+"caption": null,
+"width": 1024,
+"height": 1024,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_a ink drawing of a recursive optical illusion (7).png",
+"hash": "thumbnail_a_ink_drawing_of_a_recursive_optical_illusion_7_afff06614e",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 156,
+"height": 156,
+"size": 49.72,
+"url": "/uploads/thumbnail_a_ink_drawing_of_a_recursive_optical_illusion_7_afff06614e.png"
+},
+"small": {
+"name": "small_a ink drawing of a recursive optical illusion (7).png",
+"hash": "small_a_ink_drawing_of_a_recursive_optical_illusion_7_afff06614e",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 500,
+"height": 500,
+"size": 679.84,
+"url": "/uploads/small_a_ink_drawing_of_a_recursive_optical_illusion_7_afff06614e.png"
+},
+"medium": {
+"name": "medium_a ink drawing of a recursive optical illusion (7).png",
+"hash": "medium_a_ink_drawing_of_a_recursive_optical_illusion_7_afff06614e",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 750,
+"height": 750,
+"size": 1585.09,
+"url": "/uploads/medium_a_ink_drawing_of_a_recursive_optical_illusion_7_afff06614e.png"
+},
+"large": {
+"name": "large_a ink drawing of a recursive optical illusion (7).png",
+"hash": "large_a_ink_drawing_of_a_recursive_optical_illusion_7_afff06614e",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 1000,
+"height": 1000,
+"size": 2774.02,
+"url": "/uploads/large_a_ink_drawing_of_a_recursive_optical_illusion_7_afff06614e.png"
+}
+},
+"hash": "a_ink_drawing_of_a_recursive_optical_illusion_7_afff06614e",
+"ext": ".png",
+"mime": "image/png",
+"size": 993.15,
+"url": "/uploads/a_ink_drawing_of_a_recursive_optical_illusion_7_afff06614e.png",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2023-09-18T04:37:05.886Z",
+"updatedAt": "2023-09-23T00:56:15.785Z"
+}
+}
+},
+"projectImages": {
+"data": [
+{
+"id": 8,
+"attributes": {
+"name": "a ink drawing of a recursive optical illusion (1).png",
+"alternativeText": null,
+"caption": null,
+"width": 512,
+"height": 512,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_a ink drawing of a recursive optical illusion (1).png",
+"hash": "thumbnail_a_ink_drawing_of_a_recursive_optical_illusion_1_bd79e64fb3",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 156,
+"height": 156,
+"size": 64.82,
+"url": "/uploads/thumbnail_a_ink_drawing_of_a_recursive_optical_illusion_1_bd79e64fb3.png"
+},
+"small": {
+"name": "small_a ink drawing of a recursive optical illusion (1).png",
+"hash": "small_a_ink_drawing_of_a_recursive_optical_illusion_1_bd79e64fb3",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 500,
+"height": 500,
+"size": 614.31,
+"url": "/uploads/small_a_ink_drawing_of_a_recursive_optical_illusion_1_bd79e64fb3.png"
+}
+},
+"hash": "a_ink_drawing_of_a_recursive_optical_illusion_1_bd79e64fb3",
+"ext": ".png",
+"mime": "image/png",
+"size": 241.04,
+"url": "/uploads/a_ink_drawing_of_a_recursive_optical_illusion_1_bd79e64fb3.png",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2023-09-18T04:37:33.913Z",
+"updatedAt": "2023-09-18T04:37:33.913Z"
+}
+},
+{
+"id": 9,
+"attributes": {
+"name": "a ink drawing of a recursive optical illusion (4).png",
+"alternativeText": null,
+"caption": null,
+"width": 1024,
+"height": 1024,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_a ink drawing of a recursive optical illusion (4).png",
+"hash": "thumbnail_a_ink_drawing_of_a_recursive_optical_illusion_4_c371387588",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 156,
+"height": 156,
+"size": 60.03,
+"url": "/uploads/thumbnail_a_ink_drawing_of_a_recursive_optical_illusion_4_c371387588.png"
+},
+"small": {
+"name": "small_a ink drawing of a recursive optical illusion (4).png",
+"hash": "small_a_ink_drawing_of_a_recursive_optical_illusion_4_c371387588",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 500,
+"height": 500,
+"size": 436.12,
+"url": "/uploads/small_a_ink_drawing_of_a_recursive_optical_illusion_4_c371387588.png"
+},
+"medium": {
+"name": "medium_a ink drawing of a recursive optical illusion (4).png",
+"hash": "medium_a_ink_drawing_of_a_recursive_optical_illusion_4_c371387588",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 750,
+"height": 750,
+"size": 915.41,
+"url": "/uploads/medium_a_ink_drawing_of_a_recursive_optical_illusion_4_c371387588.png"
+},
+"large": {
+"name": "large_a ink drawing of a recursive optical illusion (4).png",
+"hash": "large_a_ink_drawing_of_a_recursive_optical_illusion_4_c371387588",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 1000,
+"height": 1000,
+"size": 1561.98,
+"url": "/uploads/large_a_ink_drawing_of_a_recursive_optical_illusion_4_c371387588.png"
+}
+},
+"hash": "a_ink_drawing_of_a_recursive_optical_illusion_4_c371387588",
+"ext": ".png",
+"mime": "image/png",
+"size": 481.23,
+"url": "/uploads/a_ink_drawing_of_a_recursive_optical_illusion_4_c371387588.png",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2023-09-18T04:37:33.956Z",
+"updatedAt": "2023-09-18T04:37:33.956Z"
+}
+},
+{
+"id": 10,
+"attributes": {
+"name": "a ink drawing of a recursive optical illusion (3).png",
+"alternativeText": null,
+"caption": null,
+"width": 512,
+"height": 512,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_a ink drawing of a recursive optical illusion (3).png",
+"hash": "thumbnail_a_ink_drawing_of_a_recursive_optical_illusion_3_0e7ea7c72c",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 156,
+"height": 156,
+"size": 68.66,
+"url": "/uploads/thumbnail_a_ink_drawing_of_a_recursive_optical_illusion_3_0e7ea7c72c.png"
+},
+"small": {
+"name": "small_a ink drawing of a recursive optical illusion (3).png",
+"hash": "small_a_ink_drawing_of_a_recursive_optical_illusion_3_0e7ea7c72c",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 500,
+"height": 500,
+"size": 647.93,
+"url": "/uploads/small_a_ink_drawing_of_a_recursive_optical_illusion_3_0e7ea7c72c.png"
+}
+},
+"hash": "a_ink_drawing_of_a_recursive_optical_illusion_3_0e7ea7c72c",
+"ext": ".png",
+"mime": "image/png",
+"size": 245.89,
+"url": "/uploads/a_ink_drawing_of_a_recursive_optical_illusion_3_0e7ea7c72c.png",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2023-09-18T04:37:34.006Z",
+"updatedAt": "2023-09-18T04:37:34.006Z"
+}
+},
+{
+"id": 11,
+"attributes": {
+"name": "a ink drawing of a recursive optical illusion (2).png",
+"alternativeText": null,
+"caption": null,
+"width": 512,
+"height": 512,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_a ink drawing of a recursive optical illusion (2).png",
+"hash": "thumbnail_a_ink_drawing_of_a_recursive_optical_illusion_2_f2e8ccec9e",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 156,
+"height": 156,
+"size": 66.3,
+"url": "/uploads/thumbnail_a_ink_drawing_of_a_recursive_optical_illusion_2_f2e8ccec9e.png"
+},
+"small": {
+"name": "small_a ink drawing of a recursive optical illusion (2).png",
+"hash": "small_a_ink_drawing_of_a_recursive_optical_illusion_2_f2e8ccec9e",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 500,
+"height": 500,
+"size": 679.11,
+"url": "/uploads/small_a_ink_drawing_of_a_recursive_optical_illusion_2_f2e8ccec9e.png"
+}
+},
+"hash": "a_ink_drawing_of_a_recursive_optical_illusion_2_f2e8ccec9e",
+"ext": ".png",
+"mime": "image/png",
+"size": 239.66,
+"url": "/uploads/a_ink_drawing_of_a_recursive_optical_illusion_2_f2e8ccec9e.png",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2023-09-18T04:37:34.027Z",
+"updatedAt": "2023-09-18T04:37:34.027Z"
+}
+}
+]
+}
+}
+},
+{
+"id": 3,
+"attributes": {
+"title": "Undertrained StyleGAN",
+"date": null,
+"createdAt": "2023-09-23T01:39:23.579Z",
+"updatedAt": "2024-02-28T04:47:57.785Z",
+"publishedAt": "2023-09-23T01:39:45.188Z",
+"slug": "style-gan2",
+"longdescription": "For me Generative AI to produce images was never about producing realistic images. It was about discovering asd",
+"shortdescription": "For me Generative AI to produce images was never about producing realistic images. It was about discovering new aesthetics. ",
+"specialsauce": "<iframe class=\"aspect-video w-full\" src=\"https://www.youtube.com/embed/-meMH12LcQA\" title=\"Portrait Series - &quot;Dina&quot; 003\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+"featuredImage": {
+"data": {
+"id": 22,
+"attributes": {
+"name": "Herring_ceramic_balls_dancing_in_front_of_a_white_wall_dark_clo_18524c87-4305-40d9-ad3c-e294b9afdb16.png",
+"alternativeText": null,
+"caption": null,
+"width": 1024,
+"height": 1024,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_Herring_ceramic_balls_dancing_in_front_of_a_white_wall_dark_clo_18524c87-4305-40d9-ad3c-e294b9afdb16.png",
+"hash": "thumbnail_Herring_ceramic_balls_dancing_in_front_of_a_white_wall_dark_clo_18524c87_4305_40d9_ad3c_e294b9afdb16_6bf211d35e",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 156,
+"height": 156,
+"size": 40.02,
+"url": "/uploads/thumbnail_Herring_ceramic_balls_dancing_in_front_of_a_white_wall_dark_clo_18524c87_4305_40d9_ad3c_e294b9afdb16_6bf211d35e.png"
+},
+"small": {
+"name": "small_Herring_ceramic_balls_dancing_in_front_of_a_white_wall_dark_clo_18524c87-4305-40d9-ad3c-e294b9afdb16.png",
+"hash": "small_Herring_ceramic_balls_dancing_in_front_of_a_white_wall_dark_clo_18524c87_4305_40d9_ad3c_e294b9afdb16_6bf211d35e",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 500,
+"height": 500,
+"size": 308.88,
+"url": "/uploads/small_Herring_ceramic_balls_dancing_in_front_of_a_white_wall_dark_clo_18524c87_4305_40d9_ad3c_e294b9afdb16_6bf211d35e.png"
+},
+"medium": {
+"name": "medium_Herring_ceramic_balls_dancing_in_front_of_a_white_wall_dark_clo_18524c87-4305-40d9-ad3c-e294b9afdb16.png",
+"hash": "medium_Herring_ceramic_balls_dancing_in_front_of_a_white_wall_dark_clo_18524c87_4305_40d9_ad3c_e294b9afdb16_6bf211d35e",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 750,
+"height": 750,
+"size": 634.4,
+"url": "/uploads/medium_Herring_ceramic_balls_dancing_in_front_of_a_white_wall_dark_clo_18524c87_4305_40d9_ad3c_e294b9afdb16_6bf211d35e.png"
+},
+"large": {
+"name": "large_Herring_ceramic_balls_dancing_in_front_of_a_white_wall_dark_clo_18524c87-4305-40d9-ad3c-e294b9afdb16.png",
+"hash": "large_Herring_ceramic_balls_dancing_in_front_of_a_white_wall_dark_clo_18524c87_4305_40d9_ad3c_e294b9afdb16_6bf211d35e",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 1000,
+"height": 1000,
+"size": 1016.68,
+"url": "/uploads/large_Herring_ceramic_balls_dancing_in_front_of_a_white_wall_dark_clo_18524c87_4305_40d9_ad3c_e294b9afdb16_6bf211d35e.png"
+}
+},
+"hash": "Herring_ceramic_balls_dancing_in_front_of_a_white_wall_dark_clo_18524c87_4305_40d9_ad3c_e294b9afdb16_6bf211d35e",
+"ext": ".png",
+"mime": "image/png",
+"size": 288.11,
+"url": "/uploads/Herring_ceramic_balls_dancing_in_front_of_a_white_wall_dark_clo_18524c87_4305_40d9_ad3c_e294b9afdb16_6bf211d35e.png",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2023-09-23T01:39:15.271Z",
+"updatedAt": "2023-09-23T01:39:15.271Z"
+}
+}
+},
+"projectImages": {
+"data": [
+{
+"id": 59,
+"attributes": {
+"name": "blush2.jpg",
+"alternativeText": null,
+"caption": null,
+"width": 1600,
+"height": 1600,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_blush2.jpg",
+"hash": "thumbnail_blush2_1c5cf611ce",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 156,
+"height": 156,
+"size": 5.75,
+"url": "/uploads/thumbnail_blush2_1c5cf611ce.jpg"
+},
+"small": {
+"name": "small_blush2.jpg",
+"hash": "small_blush2_1c5cf611ce",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 500,
+"height": 500,
+"size": 49.97,
+"url": "/uploads/small_blush2_1c5cf611ce.jpg"
+},
+"medium": {
+"name": "medium_blush2.jpg",
+"hash": "medium_blush2_1c5cf611ce",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 750,
+"height": 750,
+"size": 101.73,
+"url": "/uploads/medium_blush2_1c5cf611ce.jpg"
+},
+"large": {
+"name": "large_blush2.jpg",
+"hash": "large_blush2_1c5cf611ce",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 1000,
+"height": 1000,
+"size": 161.27,
+"url": "/uploads/large_blush2_1c5cf611ce.jpg"
+}
+},
+"hash": "blush2_1c5cf611ce",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"size": 333.38,
+"url": "/uploads/blush2_1c5cf611ce.jpg",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-02-26T19:50:12.413Z",
+"updatedAt": "2024-02-28T04:46:01.060Z"
+}
+},
+{
+"id": 1,
+"attributes": {
+"name": "cologne5.jpg",
+"alternativeText": null,
+"caption": null,
+"width": 746,
+"height": 499,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_cologne5.jpg",
+"hash": "thumbnail_cologne5_fa5770a227",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 234,
+"height": 156,
+"size": 9.18,
+"url": "/uploads/thumbnail_cologne5_fa5770a227.jpg"
+},
+"small": {
+"name": "small_cologne5.jpg",
+"hash": "small_cologne5_fa5770a227",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 500,
+"height": 334,
+"size": 45.34,
+"url": "/uploads/small_cologne5_fa5770a227.jpg"
+}
+},
+"hash": "cologne5_fa5770a227",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"size": 102.31,
+"url": "/uploads/cologne5_fa5770a227.jpg",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2023-09-18T04:31:59.413Z",
+"updatedAt": "2024-02-28T04:47:26.396Z"
+}
+}
+]
+}
+}
+},
+{
+"id": 4,
+"attributes": {
+"title": "Helix",
+"date": null,
+"createdAt": "2024-02-26T18:07:18.926Z",
+"updatedAt": "2024-03-07T16:54:39.027Z",
+"publishedAt": "2024-02-26T18:10:35.954Z",
+"slug": "helix",
+"longdescription": "     <p class=\"py-4\">\n            At a time of exponential innovation in biotechnology, a focus on\n            leveraging genomics at the scale of populations made Helix a vital\n            repository of data and information during the COVID-19 pandemic.\n        </p>\n\n        <p class=\"py-4\">\n            As Helix refined its approach to messaging and other aspects of\n            their brand, the technology they used for publishing content was\n            fragmented and tough to use. Aleph engaged in an ambitious effort to\n            shape a new visual presence around their existing identity, and to\n            deliver a stable-but-malleable content platform to meet a diverse\n            set of requirements with enterprise-level confidence.\n        </p>\n\n        <p class=\"  py-4\">\n            This migration presented us with a few major challenges from the\n            word “go”. We were tasked with refining the online presentation of\n            Helix’s identity and messaging through a comprehensive design\n            process. In addition, we needed to conceptualize and build a tech\n            platform that would modernize their publishing workflows while\n            deftly handling several years of legacy content.\n        </p>\n            \n\n        \n        \n         <p class=\"py-4 mb-16\">\n            Aleph dsdelivered on a purposeful project plan, including the\n            migration of content from multiple legacy platforms, a broad\n            approach to content strategy and management, and a complete\n            interactive design system featuring well-documented processes, usage\n            and development recommendations. We’re proud to support Helix in\n            their mission to innovate with population genomics, and excited to\n            see what’s next.\n        </p>",
+"shortdescription": "A landing page optimization project that grew into a small rebrand. ",
+"specialsauce": "<iframe\n            title=\"Helix Globe Experiment\"\n            class=\"mb-8 aspect-video w-full overflow-hidden\"\n            src=\"https://helix-hero-prototype.vercel.app/\"\n        ></iframe>\n\n\n    <iframe\n            title=\"Helix Globe Experiment\"\n            class=\"mb-8 aspect-video w-full overflow-hidden\"\n            src=\"https://helix-glober.vercel.app/\"\n        ></iframe>\n",
+"featuredImage": {
+"data": {
+"id": 32,
+"attributes": {
+"name": "ad1.png",
+"alternativeText": null,
+"caption": null,
+"width": 3323,
+"height": 2471,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_ad1.png",
+"hash": "thumbnail_ad1_aaacb4d9b1",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 210,
+"height": 156,
+"size": 34.8,
+"url": "/uploads/thumbnail_ad1_aaacb4d9b1.png"
+},
+"small": {
+"name": "small_ad1.png",
+"hash": "small_ad1_aaacb4d9b1",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 500,
+"height": 372,
+"size": 107.28,
+"url": "/uploads/small_ad1_aaacb4d9b1.png"
+},
+"medium": {
+"name": "medium_ad1.png",
+"hash": "medium_ad1_aaacb4d9b1",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 750,
+"height": 558,
+"size": 190.56,
+"url": "/uploads/medium_ad1_aaacb4d9b1.png"
+},
+"large": {
+"name": "large_ad1.png",
+"hash": "large_ad1_aaacb4d9b1",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 1000,
+"height": 744,
+"size": 289.84,
+"url": "/uploads/large_ad1_aaacb4d9b1.png"
+}
+},
+"hash": "ad1_aaacb4d9b1",
+"ext": ".png",
+"mime": "image/png",
+"size": 402.36,
+"url": "/uploads/ad1_aaacb4d9b1.png",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-02-26T18:06:02.491Z",
+"updatedAt": "2024-02-26T18:07:08.310Z"
+}
+}
+},
+"projectImages": {
+"data": [
+{
+"id": 25,
+"attributes": {
+"name": "4.webp",
+"alternativeText": null,
+"caption": null,
+"width": 2456,
+"height": 1280,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_4.webp",
+"hash": "thumbnail_4_908debdc38",
+"ext": ".webp",
+"mime": "image/webp",
+"path": null,
+"width": 245,
+"height": 128,
+"size": 4.6,
+"url": "/uploads/thumbnail_4_908debdc38.webp"
+},
+"large": {
+"name": "large_4.webp",
+"hash": "large_4_908debdc38",
+"ext": ".webp",
+"mime": "image/webp",
+"path": null,
+"width": 1000,
+"height": 521,
+"size": 23.3,
+"url": "/uploads/large_4_908debdc38.webp"
+},
+"medium": {
+"name": "medium_4.webp",
+"hash": "medium_4_908debdc38",
+"ext": ".webp",
+"mime": "image/webp",
+"path": null,
+"width": 750,
+"height": 391,
+"size": 17.44,
+"url": "/uploads/medium_4_908debdc38.webp"
+},
+"small": {
+"name": "small_4.webp",
+"hash": "small_4_908debdc38",
+"ext": ".webp",
+"mime": "image/webp",
+"path": null,
+"width": 500,
+"height": 261,
+"size": 11.36,
+"url": "/uploads/small_4_908debdc38.webp"
+}
+},
+"hash": "4_908debdc38",
+"ext": ".webp",
+"mime": "image/webp",
+"size": 54.41,
+"url": "/uploads/4_908debdc38.webp",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-02-26T18:06:01.651Z",
+"updatedAt": "2024-02-26T18:06:01.651Z"
+}
+},
+{
+"id": 26,
+"attributes": {
+"name": "3.webp",
+"alternativeText": null,
+"caption": null,
+"width": 2456,
+"height": 1280,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_3.webp",
+"hash": "thumbnail_3_e493ee9fe9",
+"ext": ".webp",
+"mime": "image/webp",
+"path": null,
+"width": 245,
+"height": 128,
+"size": 2.81,
+"url": "/uploads/thumbnail_3_e493ee9fe9.webp"
+},
+"large": {
+"name": "large_3.webp",
+"hash": "large_3_e493ee9fe9",
+"ext": ".webp",
+"mime": "image/webp",
+"path": null,
+"width": 1000,
+"height": 521,
+"size": 21.08,
+"url": "/uploads/large_3_e493ee9fe9.webp"
+},
+"medium": {
+"name": "medium_3.webp",
+"hash": "medium_3_e493ee9fe9",
+"ext": ".webp",
+"mime": "image/webp",
+"path": null,
+"width": 750,
+"height": 391,
+"size": 14.96,
+"url": "/uploads/medium_3_e493ee9fe9.webp"
+},
+"small": {
+"name": "small_3.webp",
+"hash": "small_3_e493ee9fe9",
+"ext": ".webp",
+"mime": "image/webp",
+"path": null,
+"width": 500,
+"height": 261,
+"size": 8.58,
+"url": "/uploads/small_3_e493ee9fe9.webp"
+}
+},
+"hash": "3_e493ee9fe9",
+"ext": ".webp",
+"mime": "image/webp",
+"size": 59.26,
+"url": "/uploads/3_e493ee9fe9.webp",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-02-26T18:06:01.704Z",
+"updatedAt": "2024-02-26T18:06:01.704Z"
+}
+},
+{
+"id": 27,
+"attributes": {
+"name": "1.webp",
+"alternativeText": null,
+"caption": null,
+"width": 2456,
+"height": 1280,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_1.webp",
+"hash": "thumbnail_1_b1dae1fcfe",
+"ext": ".webp",
+"mime": "image/webp",
+"path": null,
+"width": 245,
+"height": 128,
+"size": 5.54,
+"url": "/uploads/thumbnail_1_b1dae1fcfe.webp"
+},
+"large": {
+"name": "large_1.webp",
+"hash": "large_1_b1dae1fcfe",
+"ext": ".webp",
+"mime": "image/webp",
+"path": null,
+"width": 1000,
+"height": 521,
+"size": 33.76,
+"url": "/uploads/large_1_b1dae1fcfe.webp"
+},
+"small": {
+"name": "small_1.webp",
+"hash": "small_1_b1dae1fcfe",
+"ext": ".webp",
+"mime": "image/webp",
+"path": null,
+"width": 500,
+"height": 261,
+"size": 14.94,
+"url": "/uploads/small_1_b1dae1fcfe.webp"
+},
+"medium": {
+"name": "medium_1.webp",
+"hash": "medium_1_b1dae1fcfe",
+"ext": ".webp",
+"mime": "image/webp",
+"path": null,
+"width": 750,
+"height": 391,
+"size": 24.77,
+"url": "/uploads/medium_1_b1dae1fcfe.webp"
+}
+},
+"hash": "1_b1dae1fcfe",
+"ext": ".webp",
+"mime": "image/webp",
+"size": 86.74,
+"url": "/uploads/1_b1dae1fcfe.webp",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-02-26T18:06:01.721Z",
+"updatedAt": "2024-02-26T23:01:19.060Z"
+}
+},
+{
+"id": 28,
+"attributes": {
+"name": "2.webp",
+"alternativeText": null,
+"caption": null,
+"width": 2456,
+"height": 1280,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_2.webp",
+"hash": "thumbnail_2_5449b81628",
+"ext": ".webp",
+"mime": "image/webp",
+"path": null,
+"width": 245,
+"height": 128,
+"size": 4.34,
+"url": "/uploads/thumbnail_2_5449b81628.webp"
+},
+"large": {
+"name": "large_2.webp",
+"hash": "large_2_5449b81628",
+"ext": ".webp",
+"mime": "image/webp",
+"path": null,
+"width": 1000,
+"height": 521,
+"size": 31.24,
+"url": "/uploads/large_2_5449b81628.webp"
+},
+"medium": {
+"name": "medium_2.webp",
+"hash": "medium_2_5449b81628",
+"ext": ".webp",
+"mime": "image/webp",
+"path": null,
+"width": 750,
+"height": 391,
+"size": 21.78,
+"url": "/uploads/medium_2_5449b81628.webp"
+},
+"small": {
+"name": "small_2.webp",
+"hash": "small_2_5449b81628",
+"ext": ".webp",
+"mime": "image/webp",
+"path": null,
+"width": 500,
+"height": 261,
+"size": 12.78,
+"url": "/uploads/small_2_5449b81628.webp"
+}
+},
+"hash": "2_5449b81628",
+"ext": ".webp",
+"mime": "image/webp",
+"size": 89.01,
+"url": "/uploads/2_5449b81628.webp",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-02-26T18:06:01.830Z",
+"updatedAt": "2024-02-26T18:06:01.830Z"
+}
+},
+{
+"id": 29,
+"attributes": {
+"name": "empower1.png",
+"alternativeText": null,
+"caption": null,
+"width": 2732,
+"height": 1641,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_empower1.png",
+"hash": "thumbnail_empower1_2895ac4763",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 245,
+"height": 147,
+"size": 28.87,
+"url": "/uploads/thumbnail_empower1_2895ac4763.png"
+},
+"small": {
+"name": "small_empower1.png",
+"hash": "small_empower1_2895ac4763",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 500,
+"height": 300,
+"size": 87.71,
+"url": "/uploads/small_empower1_2895ac4763.png"
+},
+"medium": {
+"name": "medium_empower1.png",
+"hash": "medium_empower1_2895ac4763",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 750,
+"height": 450,
+"size": 168.25,
+"url": "/uploads/medium_empower1_2895ac4763.png"
+},
+"large": {
+"name": "large_empower1.png",
+"hash": "large_empower1_2895ac4763",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 1000,
+"height": 601,
+"size": 271.98,
+"url": "/uploads/large_empower1_2895ac4763.png"
+}
+},
+"hash": "empower1_2895ac4763",
+"ext": ".png",
+"mime": "image/png",
+"size": 325.25,
+"url": "/uploads/empower1_2895ac4763.png",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-02-26T18:06:02.245Z",
+"updatedAt": "2024-02-26T18:06:02.245Z"
+}
+},
+{
+"id": 30,
+"attributes": {
+"name": "empower3.png",
+"alternativeText": null,
+"caption": null,
+"width": 2732,
+"height": 1350,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_empower3.png",
+"hash": "thumbnail_empower3_ded9f0ce70",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 245,
+"height": 121,
+"size": 26.33,
+"url": "/uploads/thumbnail_empower3_ded9f0ce70.png"
+},
+"medium": {
+"name": "medium_empower3.png",
+"hash": "medium_empower3_ded9f0ce70",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 750,
+"height": 371,
+"size": 124.59,
+"url": "/uploads/medium_empower3_ded9f0ce70.png"
+},
+"small": {
+"name": "small_empower3.png",
+"hash": "small_empower3_ded9f0ce70",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 500,
+"height": 247,
+"size": 69.67,
+"url": "/uploads/small_empower3_ded9f0ce70.png"
+},
+"large": {
+"name": "large_empower3.png",
+"hash": "large_empower3_ded9f0ce70",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 1000,
+"height": 494,
+"size": 190.97,
+"url": "/uploads/large_empower3_ded9f0ce70.png"
+}
+},
+"hash": "empower3_ded9f0ce70",
+"ext": ".png",
+"mime": "image/png",
+"size": 185.12,
+"url": "/uploads/empower3_ded9f0ce70.png",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-02-26T18:06:02.317Z",
+"updatedAt": "2024-02-26T18:06:02.317Z"
+}
+},
+{
+"id": 31,
+"attributes": {
+"name": "empower2.png",
+"alternativeText": null,
+"caption": null,
+"width": 2732,
+"height": 1560,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_empower2.png",
+"hash": "thumbnail_empower2_31af2867b5",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 245,
+"height": 140,
+"size": 22.85,
+"url": "/uploads/thumbnail_empower2_31af2867b5.png"
+},
+"small": {
+"name": "small_empower2.png",
+"hash": "small_empower2_31af2867b5",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 500,
+"height": 286,
+"size": 72.8,
+"url": "/uploads/small_empower2_31af2867b5.png"
+},
+"medium": {
+"name": "medium_empower2.png",
+"hash": "medium_empower2_31af2867b5",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 750,
+"height": 428,
+"size": 141.62,
+"url": "/uploads/medium_empower2_31af2867b5.png"
+},
+"large": {
+"name": "large_empower2.png",
+"hash": "large_empower2_31af2867b5",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 1000,
+"height": 571,
+"size": 224.03,
+"url": "/uploads/large_empower2_31af2867b5.png"
+}
+},
+"hash": "empower2_31af2867b5",
+"ext": ".png",
+"mime": "image/png",
+"size": 211.03,
+"url": "/uploads/empower2_31af2867b5.png",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-02-26T18:06:02.352Z",
+"updatedAt": "2024-02-26T18:06:02.352Z"
+}
+}
+]
+}
+}
+},
+{
+"id": 5,
+"attributes": {
+"title": "Tracy Chapman",
+"date": null,
+"createdAt": "2024-02-26T18:31:30.255Z",
+"updatedAt": "2024-03-06T22:44:00.901Z",
+"publishedAt": "2024-02-26T18:31:30.901Z",
+"slug": "tracy-chapman",
+"longdescription": "<p>When I got the email from Tracy Chapman's agent, I was a little caught off gaurd. I was suprised and excited but also thought the design directions we had been taking at OrdinaryKids may be too far out there. As always, I was rady to jump on a plane and head down. </p>\n\n<p>Tracy met with my in her studio. We breifly chatted about project details but quickly start discussing her vision for the album, and her personal brand. It was the next meeting that would become a center piece of my creative outout that year. Not only did we all connect at my studio in the Dogpatch, we also really jelled on a idea that was just a sketch. </p>\n\n<p>The idea was simple. Let;s let the user color in a animatied coloring book while it was playing. People could image \"Our Bright Future\" as a positive one or a cynical one. It still works well today. When I got the email from Tracy Chapman's agent, I was a little caught off gaurd. I was suprised and excited but also thought the design directions we had been taking at OrdinaryKids may be too far out there. As always, I was rady to jump on a plane and head down. </p>\n\n<p>Tracy met with my in her studio. We breifly chatted about project details but quickly start discussing her vision for the album, and her personal brand. It was the next meeting that would become a center piece of my creative outout that year. Not only did we all connect at my studio in the Dogpatch, we also really jelled on a idea that was just a sketch. </p>\n\n<p>The idea was simple. Let;s let the user color in a animatied coloring book while it was playing. People could image \"Our Bright Future\" as a positive one or a cynical one. It still works well today. When I got the email from Tracy Chapman's agent, I was a little caught off gaurd. I was suprised and excited but also thought the design directions we had been taking at OrdinaryKids may be too far out there. As always, I was rady to jump on a plane and head down. </p>\n\n",
+"shortdescription": "Sometimes, less often than I would like to admit, ideas just form in an instant. ",
+"specialsauce": null,
+"featuredImage": {
+"data": {
+"id": 33,
+"attributes": {
+"name": "1.jpg",
+"alternativeText": null,
+"caption": null,
+"width": 1183,
+"height": 710,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_1.jpg",
+"hash": "thumbnail_1_b09b7e996b",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 245,
+"height": 147,
+"size": 8.78,
+"url": "/uploads/thumbnail_1_b09b7e996b.jpg"
+},
+"medium": {
+"name": "medium_1.jpg",
+"hash": "medium_1_b09b7e996b",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 750,
+"height": 450,
+"size": 59.17,
+"url": "/uploads/medium_1_b09b7e996b.jpg"
+},
+"small": {
+"name": "small_1.jpg",
+"hash": "small_1_b09b7e996b",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 500,
+"height": 300,
+"size": 29.87,
+"url": "/uploads/small_1_b09b7e996b.jpg"
+},
+"large": {
+"name": "large_1.jpg",
+"hash": "large_1_b09b7e996b",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 1000,
+"height": 600,
+"size": 93.86,
+"url": "/uploads/large_1_b09b7e996b.jpg"
+}
+},
+"hash": "1_b09b7e996b",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"size": 120.13,
+"url": "/uploads/1_b09b7e996b.jpg",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-02-26T18:31:17.672Z",
+"updatedAt": "2024-02-29T21:16:10.319Z"
+}
+}
+},
+"projectImages": {
+"data": [
+{
+"id": 34,
+"attributes": {
+"name": "2.jpg",
+"alternativeText": null,
+"caption": null,
+"width": 1183,
+"height": 710,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_2.jpg",
+"hash": "thumbnail_2_e99ea5a67b",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 245,
+"height": 147,
+"size": 9.65,
+"url": "/uploads/thumbnail_2_e99ea5a67b.jpg"
+},
+"medium": {
+"name": "medium_2.jpg",
+"hash": "medium_2_e99ea5a67b",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 750,
+"height": 450,
+"size": 59.01,
+"url": "/uploads/medium_2_e99ea5a67b.jpg"
+},
+"small": {
+"name": "small_2.jpg",
+"hash": "small_2_e99ea5a67b",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 500,
+"height": 300,
+"size": 31,
+"url": "/uploads/small_2_e99ea5a67b.jpg"
+},
+"large": {
+"name": "large_2.jpg",
+"hash": "large_2_e99ea5a67b",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 1000,
+"height": 600,
+"size": 91.7,
+"url": "/uploads/large_2_e99ea5a67b.jpg"
+}
+},
+"hash": "2_e99ea5a67b",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"size": 120.72,
+"url": "/uploads/2_e99ea5a67b.jpg",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-02-26T18:31:17.729Z",
+"updatedAt": "2024-02-26T18:31:17.729Z"
+}
+},
+{
+"id": 35,
+"attributes": {
+"name": "3.jpg",
+"alternativeText": null,
+"caption": null,
+"width": 1183,
+"height": 710,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_3.jpg",
+"hash": "thumbnail_3_4602b7d680",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 245,
+"height": 147,
+"size": 10.51,
+"url": "/uploads/thumbnail_3_4602b7d680.jpg"
+},
+"medium": {
+"name": "medium_3.jpg",
+"hash": "medium_3_4602b7d680",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 750,
+"height": 450,
+"size": 62.53,
+"url": "/uploads/medium_3_4602b7d680.jpg"
+},
+"small": {
+"name": "small_3.jpg",
+"hash": "small_3_4602b7d680",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 500,
+"height": 300,
+"size": 33.52,
+"url": "/uploads/small_3_4602b7d680.jpg"
+},
+"large": {
+"name": "large_3.jpg",
+"hash": "large_3_4602b7d680",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 1000,
+"height": 600,
+"size": 96.8,
+"url": "/uploads/large_3_4602b7d680.jpg"
+}
+},
+"hash": "3_4602b7d680",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"size": 125.4,
+"url": "/uploads/3_4602b7d680.jpg",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-02-26T18:31:17.730Z",
+"updatedAt": "2024-02-26T18:31:17.730Z"
+}
+},
+{
+"id": 41,
+"attributes": {
+"name": "tall.jpg",
+"alternativeText": null,
+"caption": null,
+"width": 622,
+"height": 1595,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_tall.jpg",
+"hash": "thumbnail_tall_85b8d54c51",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 60,
+"height": 156,
+"size": 1.26,
+"url": "/uploads/thumbnail_tall_85b8d54c51.jpg"
+},
+"large": {
+"name": "large_tall.jpg",
+"hash": "large_tall_85b8d54c51",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 390,
+"height": 1000,
+"size": 22.6,
+"url": "/uploads/large_tall_85b8d54c51.jpg"
+},
+"medium": {
+"name": "medium_tall.jpg",
+"hash": "medium_tall_85b8d54c51",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 292,
+"height": 750,
+"size": 14.44,
+"url": "/uploads/medium_tall_85b8d54c51.jpg"
+},
+"small": {
+"name": "small_tall.jpg",
+"hash": "small_tall_85b8d54c51",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 195,
+"height": 500,
+"size": 7.42,
+"url": "/uploads/small_tall_85b8d54c51.jpg"
+}
+},
+"hash": "tall_85b8d54c51",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"size": 45.01,
+"url": "/uploads/tall_85b8d54c51.jpg",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-02-26T18:31:18.193Z",
+"updatedAt": "2024-02-26T18:31:18.193Z"
+}
+}
+]
+}
+}
+},
+{
+"id": 6,
+"attributes": {
+"title": "KQED - Elections",
+"date": null,
+"createdAt": "2024-02-26T19:31:44.910Z",
+"updatedAt": "2024-03-06T23:05:37.862Z",
+"publishedAt": "2024-02-26T19:32:28.851Z",
+"slug": "kqed",
+"longdescription": null,
+"shortdescription": null,
+"specialsauce": null,
+"featuredImage": {
+"data": {
+"id": 186,
+"attributes": {
+"name": "Facebook Share Images.png",
+"alternativeText": null,
+"caption": null,
+"width": 2400,
+"height": 1260,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_Facebook Share Images.png",
+"hash": "thumbnail_Facebook_Share_Images_d42ab2f1bf",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 245,
+"height": 129,
+"size": 56.4,
+"url": "/uploads/thumbnail_Facebook_Share_Images_d42ab2f1bf.png"
+},
+"small": {
+"name": "small_Facebook Share Images.png",
+"hash": "small_Facebook_Share_Images_d42ab2f1bf",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 500,
+"height": 263,
+"size": 208.62,
+"url": "/uploads/small_Facebook_Share_Images_d42ab2f1bf.png"
+},
+"medium": {
+"name": "medium_Facebook Share Images.png",
+"hash": "medium_Facebook_Share_Images_d42ab2f1bf",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 750,
+"height": 394,
+"size": 444.53,
+"url": "/uploads/medium_Facebook_Share_Images_d42ab2f1bf.png"
+},
+"large": {
+"name": "large_Facebook Share Images.png",
+"hash": "large_Facebook_Share_Images_d42ab2f1bf",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 1000,
+"height": 525,
+"size": 748.62,
+"url": "/uploads/large_Facebook_Share_Images_d42ab2f1bf.png"
+}
+},
+"hash": "Facebook_Share_Images_d42ab2f1bf",
+"ext": ".png",
+"mime": "image/png",
+"size": 717.59,
+"url": "/uploads/Facebook_Share_Images_d42ab2f1bf.png",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-03-06T23:00:27.930Z",
+"updatedAt": "2024-03-06T23:05:23.397Z"
+}
+}
+},
+"projectImages": {
+"data": [
+{
+"id": 188,
+"attributes": {
+"name": "MEGA RESULTS.png",
+"alternativeText": null,
+"caption": null,
+"width": 2560,
+"height": 13384,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_MEGA RESULTS.png",
+"hash": "thumbnail_MEGA_RESULTS_cb32579f28",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 30,
+"height": 156,
+"size": 6.72,
+"url": "/uploads/thumbnail_MEGA_RESULTS_cb32579f28.png"
+},
+"small": {
+"name": "small_MEGA RESULTS.png",
+"hash": "small_MEGA_RESULTS_cb32579f28",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 96,
+"height": 500,
+"size": 38.13,
+"url": "/uploads/small_MEGA_RESULTS_cb32579f28.png"
+},
+"medium": {
+"name": "medium_MEGA RESULTS.png",
+"hash": "medium_MEGA_RESULTS_cb32579f28",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 143,
+"height": 750,
+"size": 68.48,
+"url": "/uploads/medium_MEGA_RESULTS_cb32579f28.png"
+},
+"large": {
+"name": "large_MEGA RESULTS.png",
+"hash": "large_MEGA_RESULTS_cb32579f28",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 191,
+"height": 1000,
+"size": 104.12,
+"url": "/uploads/large_MEGA_RESULTS_cb32579f28.png"
+}
+},
+"hash": "MEGA_RESULTS_cb32579f28",
+"ext": ".png",
+"mime": "image/png",
+"size": 1121.27,
+"url": "/uploads/MEGA_RESULTS_cb32579f28.png",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-03-06T23:03:11.743Z",
+"updatedAt": "2024-03-06T23:03:11.743Z"
+}
+},
+{
+"id": 185,
+"attributes": {
+"name": "Facebook Share Images Copy.png",
+"alternativeText": null,
+"caption": null,
+"width": 2400,
+"height": 1260,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_Facebook Share Images Copy.png",
+"hash": "thumbnail_Facebook_Share_Images_Copy_eba95fa724",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 245,
+"height": 129,
+"size": 33.9,
+"url": "/uploads/thumbnail_Facebook_Share_Images_Copy_eba95fa724.png"
+},
+"small": {
+"name": "small_Facebook Share Images Copy.png",
+"hash": "small_Facebook_Share_Images_Copy_eba95fa724",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 500,
+"height": 263,
+"size": 116.48,
+"url": "/uploads/small_Facebook_Share_Images_Copy_eba95fa724.png"
+},
+"medium": {
+"name": "medium_Facebook Share Images Copy.png",
+"hash": "medium_Facebook_Share_Images_Copy_eba95fa724",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 750,
+"height": 394,
+"size": 232,
+"url": "/uploads/medium_Facebook_Share_Images_Copy_eba95fa724.png"
+},
+"large": {
+"name": "large_Facebook Share Images Copy.png",
+"hash": "large_Facebook_Share_Images_Copy_eba95fa724",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 1000,
+"height": 525,
+"size": 382.16,
+"url": "/uploads/large_Facebook_Share_Images_Copy_eba95fa724.png"
+}
+},
+"hash": "Facebook_Share_Images_Copy_eba95fa724",
+"ext": ".png",
+"mime": "image/png",
+"size": 421.73,
+"url": "/uploads/Facebook_Share_Images_Copy_eba95fa724.png",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-03-06T23:00:27.861Z",
+"updatedAt": "2024-03-06T23:00:27.861Z"
+}
+},
+{
+"id": 187,
+"attributes": {
+"name": "Elections Home 1 ISSUES MENU OPEN Copy.png",
+"alternativeText": null,
+"caption": null,
+"width": 750,
+"height": 7186,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_Elections Home 1 ISSUES MENU OPEN Copy.png",
+"hash": "thumbnail_Elections_Home_1_ISSUES_MENU_OPEN_Copy_85454b781c",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 16,
+"height": 156,
+"size": 6.12,
+"url": "/uploads/thumbnail_Elections_Home_1_ISSUES_MENU_OPEN_Copy_85454b781c.png"
+},
+"small": {
+"name": "small_Elections Home 1 ISSUES MENU OPEN Copy.png",
+"hash": "small_Elections_Home_1_ISSUES_MENU_OPEN_Copy_85454b781c",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 52,
+"height": 500,
+"size": 40.26,
+"url": "/uploads/small_Elections_Home_1_ISSUES_MENU_OPEN_Copy_85454b781c.png"
+},
+"large": {
+"name": "large_Elections Home 1 ISSUES MENU OPEN Copy.png",
+"hash": "large_Elections_Home_1_ISSUES_MENU_OPEN_Copy_85454b781c",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 104,
+"height": 1000,
+"size": 124.16,
+"url": "/uploads/large_Elections_Home_1_ISSUES_MENU_OPEN_Copy_85454b781c.png"
+},
+"medium": {
+"name": "medium_Elections Home 1 ISSUES MENU OPEN Copy.png",
+"hash": "medium_Elections_Home_1_ISSUES_MENU_OPEN_Copy_85454b781c",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 78,
+"height": 750,
+"size": 78.12,
+"url": "/uploads/medium_Elections_Home_1_ISSUES_MENU_OPEN_Copy_85454b781c.png"
+}
+},
+"hash": "Elections_Home_1_ISSUES_MENU_OPEN_Copy_85454b781c",
+"ext": ".png",
+"mime": "image/png",
+"size": 551.47,
+"url": "/uploads/Elections_Home_1_ISSUES_MENU_OPEN_Copy_85454b781c.png",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-03-06T23:00:29.081Z",
+"updatedAt": "2024-03-06T23:00:29.081Z"
+}
+},
+{
+"id": 184,
+"attributes": {
+"name": "Desktop Landscape.png",
+"alternativeText": null,
+"caption": null,
+"width": 1280,
+"height": 2659,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_Desktop Landscape.png",
+"hash": "thumbnail_Desktop_Landscape_0c84ab44eb",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 75,
+"height": 156,
+"size": 15.69,
+"url": "/uploads/thumbnail_Desktop_Landscape_0c84ab44eb.png"
+},
+"small": {
+"name": "small_Desktop Landscape.png",
+"hash": "small_Desktop_Landscape_0c84ab44eb",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 241,
+"height": 500,
+"size": 76.24,
+"url": "/uploads/small_Desktop_Landscape_0c84ab44eb.png"
+},
+"medium": {
+"name": "medium_Desktop Landscape.png",
+"hash": "medium_Desktop_Landscape_0c84ab44eb",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 361,
+"height": 750,
+"size": 136.88,
+"url": "/uploads/medium_Desktop_Landscape_0c84ab44eb.png"
+},
+"large": {
+"name": "large_Desktop Landscape.png",
+"hash": "large_Desktop_Landscape_0c84ab44eb",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 481,
+"height": 1000,
+"size": 207.32,
+"url": "/uploads/large_Desktop_Landscape_0c84ab44eb.png"
+}
+},
+"hash": "Desktop_Landscape_0c84ab44eb",
+"ext": ".png",
+"mime": "image/png",
+"size": 139.33,
+"url": "/uploads/Desktop_Landscape_0c84ab44eb.png",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-03-06T23:00:27.832Z",
+"updatedAt": "2024-03-06T23:00:27.832Z"
+}
+},
+{
+"id": 183,
+"attributes": {
+"name": "Feature Mobile Copy 2.png",
+"alternativeText": null,
+"caption": null,
+"width": 375,
+"height": 667,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_Feature Mobile Copy 2.png",
+"hash": "thumbnail_Feature_Mobile_Copy_2_0002b73921",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 88,
+"height": 156,
+"size": 28.3,
+"url": "/uploads/thumbnail_Feature_Mobile_Copy_2_0002b73921.png"
+},
+"small": {
+"name": "small_Feature Mobile Copy 2.png",
+"hash": "small_Feature_Mobile_Copy_2_0002b73921",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 281,
+"height": 500,
+"size": 221.18,
+"url": "/uploads/small_Feature_Mobile_Copy_2_0002b73921.png"
+}
+},
+"hash": "Feature_Mobile_Copy_2_0002b73921",
+"ext": ".png",
+"mime": "image/png",
+"size": 86.95,
+"url": "/uploads/Feature_Mobile_Copy_2_0002b73921.png",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-03-06T23:00:27.522Z",
+"updatedAt": "2024-03-06T23:00:27.522Z"
+}
+},
+{
+"id": 182,
+"attributes": {
+"name": "image 1.png",
+"alternativeText": null,
+"caption": null,
+"width": 928,
+"height": 1672,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_image 1.png",
+"hash": "thumbnail_image_1_caddef6383",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 87,
+"height": 156,
+"size": 9.14,
+"url": "/uploads/thumbnail_image_1_caddef6383.png"
+},
+"medium": {
+"name": "medium_image 1.png",
+"hash": "medium_image_1_caddef6383",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 416,
+"height": 750,
+"size": 63.42,
+"url": "/uploads/medium_image_1_caddef6383.png"
+},
+"small": {
+"name": "small_image 1.png",
+"hash": "small_image_1_caddef6383",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 278,
+"height": 500,
+"size": 37.4,
+"url": "/uploads/small_image_1_caddef6383.png"
+},
+"large": {
+"name": "large_image 1.png",
+"hash": "large_image_1_caddef6383",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 555,
+"height": 1000,
+"size": 93.97,
+"url": "/uploads/large_image_1_caddef6383.png"
+}
+},
+"hash": "image_1_caddef6383",
+"ext": ".png",
+"mime": "image/png",
+"size": 34.65,
+"url": "/uploads/image_1_caddef6383.png",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-03-06T23:00:27.502Z",
+"updatedAt": "2024-03-06T23:00:27.502Z"
+}
+}
+]
+}
+}
+},
+{
+"id": 7,
+"attributes": {
+"title": "Mercurius",
+"date": null,
+"createdAt": "2024-02-26T19:52:15.476Z",
+"updatedAt": "2024-02-26T19:52:23.325Z",
+"publishedAt": "2024-02-26T19:52:23.324Z",
+"slug": "mercurius",
+"longdescription": null,
+"shortdescription": null,
+"specialsauce": null,
+"featuredImage": {
+"data": {
+"id": 60,
+"attributes": {
+"name": "1.jpg",
+"alternativeText": null,
+"caption": null,
+"width": 2457,
+"height": 1500,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_1.jpg",
+"hash": "thumbnail_1_1563a6df57",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 245,
+"height": 149,
+"size": 11.42,
+"url": "/uploads/thumbnail_1_1563a6df57.jpg"
+},
+"small": {
+"name": "small_1.jpg",
+"hash": "small_1_1563a6df57",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 500,
+"height": 305,
+"size": 42.25,
+"url": "/uploads/small_1_1563a6df57.jpg"
+},
+"medium": {
+"name": "medium_1.jpg",
+"hash": "medium_1_1563a6df57",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 750,
+"height": 458,
+"size": 93.19,
+"url": "/uploads/medium_1_1563a6df57.jpg"
+},
+"large": {
+"name": "large_1.jpg",
+"hash": "large_1_1563a6df57",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 1000,
+"height": 611,
+"size": 171.4,
+"url": "/uploads/large_1_1563a6df57.jpg"
+}
+},
+"hash": "1_1563a6df57",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"size": 822.76,
+"url": "/uploads/1_1563a6df57.jpg",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-02-26T19:50:12.473Z",
+"updatedAt": "2024-02-26T19:50:19.584Z"
+}
+}
+},
+"projectImages": {
+"data": [
+{
+"id": 56,
+"attributes": {
+"name": "1_final.jpg",
+"alternativeText": null,
+"caption": null,
+"width": 1179,
+"height": 720,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_1_final.jpg",
+"hash": "thumbnail_1_final_1cfd925da1",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 245,
+"height": 150,
+"size": 10.75,
+"url": "/uploads/thumbnail_1_final_1cfd925da1.jpg"
+},
+"small": {
+"name": "small_1_final.jpg",
+"hash": "small_1_final_1cfd925da1",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 500,
+"height": 305,
+"size": 42.38,
+"url": "/uploads/small_1_final_1cfd925da1.jpg"
+},
+"medium": {
+"name": "medium_1_final.jpg",
+"hash": "medium_1_final_1cfd925da1",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 750,
+"height": 458,
+"size": 93.24,
+"url": "/uploads/medium_1_final_1cfd925da1.jpg"
+},
+"large": {
+"name": "large_1_final.jpg",
+"hash": "large_1_final_1cfd925da1",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 1000,
+"height": 611,
+"size": 163.83,
+"url": "/uploads/large_1_final_1cfd925da1.jpg"
+}
+},
+"hash": "1_final_1cfd925da1",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"size": 229.92,
+"url": "/uploads/1_final_1cfd925da1.jpg",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-02-26T19:50:12.324Z",
+"updatedAt": "2024-02-26T19:50:12.324Z"
+}
+},
+{
+"id": 57,
+"attributes": {
+"name": "1l.jpg",
+"alternativeText": null,
+"caption": null,
+"width": 1179,
+"height": 720,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_1l.jpg",
+"hash": "thumbnail_1l_4896269f1f",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 245,
+"height": 150,
+"size": 10.59,
+"url": "/uploads/thumbnail_1l_4896269f1f.jpg"
+},
+"small": {
+"name": "small_1l.jpg",
+"hash": "small_1l_4896269f1f",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 500,
+"height": 305,
+"size": 41.49,
+"url": "/uploads/small_1l_4896269f1f.jpg"
+},
+"medium": {
+"name": "medium_1l.jpg",
+"hash": "medium_1l_4896269f1f",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 750,
+"height": 458,
+"size": 91.28,
+"url": "/uploads/medium_1l_4896269f1f.jpg"
+},
+"large": {
+"name": "large_1l.jpg",
+"hash": "large_1l_4896269f1f",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 1000,
+"height": 611,
+"size": 160.96,
+"url": "/uploads/large_1l_4896269f1f.jpg"
+}
+},
+"hash": "1l_4896269f1f",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"size": 225.47,
+"url": "/uploads/1l_4896269f1f.jpg",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-02-26T19:50:12.328Z",
+"updatedAt": "2024-02-26T19:50:12.328Z"
+}
+},
+{
+"id": 58,
+"attributes": {
+"name": "beer.jpg",
+"alternativeText": null,
+"caption": null,
+"width": 2491,
+"height": 2183,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_beer.jpg",
+"hash": "thumbnail_beer_74f62ca247",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 178,
+"height": 156,
+"size": 3.44,
+"url": "/uploads/thumbnail_beer_74f62ca247.jpg"
+},
+"large": {
+"name": "large_beer.jpg",
+"hash": "large_beer_74f62ca247",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 1000,
+"height": 876,
+"size": 47.26,
+"url": "/uploads/large_beer_74f62ca247.jpg"
+},
+"medium": {
+"name": "medium_beer.jpg",
+"hash": "medium_beer_74f62ca247",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 750,
+"height": 657,
+"size": 30.01,
+"url": "/uploads/medium_beer_74f62ca247.jpg"
+},
+"small": {
+"name": "small_beer.jpg",
+"hash": "small_beer_74f62ca247",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 500,
+"height": 438,
+"size": 16.28,
+"url": "/uploads/small_beer_74f62ca247.jpg"
+}
+},
+"hash": "beer_74f62ca247",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"size": 191.8,
+"url": "/uploads/beer_74f62ca247.jpg",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-02-26T19:50:12.405Z",
+"updatedAt": "2024-02-26T19:50:12.405Z"
+}
+},
+{
+"id": 59,
+"attributes": {
+"name": "blush2.jpg",
+"alternativeText": null,
+"caption": null,
+"width": 1600,
+"height": 1600,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_blush2.jpg",
+"hash": "thumbnail_blush2_1c5cf611ce",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 156,
+"height": 156,
+"size": 5.75,
+"url": "/uploads/thumbnail_blush2_1c5cf611ce.jpg"
+},
+"small": {
+"name": "small_blush2.jpg",
+"hash": "small_blush2_1c5cf611ce",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 500,
+"height": 500,
+"size": 49.97,
+"url": "/uploads/small_blush2_1c5cf611ce.jpg"
+},
+"medium": {
+"name": "medium_blush2.jpg",
+"hash": "medium_blush2_1c5cf611ce",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 750,
+"height": 750,
+"size": 101.73,
+"url": "/uploads/medium_blush2_1c5cf611ce.jpg"
+},
+"large": {
+"name": "large_blush2.jpg",
+"hash": "large_blush2_1c5cf611ce",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 1000,
+"height": 1000,
+"size": 161.27,
+"url": "/uploads/large_blush2_1c5cf611ce.jpg"
+}
+},
+"hash": "blush2_1c5cf611ce",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"size": 333.38,
+"url": "/uploads/blush2_1c5cf611ce.jpg",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-02-26T19:50:12.413Z",
+"updatedAt": "2024-02-28T04:46:01.060Z"
+}
+},
+{
+"id": 60,
+"attributes": {
+"name": "1.jpg",
+"alternativeText": null,
+"caption": null,
+"width": 2457,
+"height": 1500,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_1.jpg",
+"hash": "thumbnail_1_1563a6df57",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 245,
+"height": 149,
+"size": 11.42,
+"url": "/uploads/thumbnail_1_1563a6df57.jpg"
+},
+"small": {
+"name": "small_1.jpg",
+"hash": "small_1_1563a6df57",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 500,
+"height": 305,
+"size": 42.25,
+"url": "/uploads/small_1_1563a6df57.jpg"
+},
+"medium": {
+"name": "medium_1.jpg",
+"hash": "medium_1_1563a6df57",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 750,
+"height": 458,
+"size": 93.19,
+"url": "/uploads/medium_1_1563a6df57.jpg"
+},
+"large": {
+"name": "large_1.jpg",
+"hash": "large_1_1563a6df57",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 1000,
+"height": 611,
+"size": 171.4,
+"url": "/uploads/large_1_1563a6df57.jpg"
+}
+},
+"hash": "1_1563a6df57",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"size": 822.76,
+"url": "/uploads/1_1563a6df57.jpg",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-02-26T19:50:12.473Z",
+"updatedAt": "2024-02-26T19:50:19.584Z"
+}
+},
+{
+"id": 61,
+"attributes": {
+"name": "cans_0402_B_final.jpg",
+"alternativeText": null,
+"caption": null,
+"width": 2457,
+"height": 1500,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_cans_0402_B_final.jpg",
+"hash": "thumbnail_cans_0402_B_final_572886f29d",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 245,
+"height": 149,
+"size": 10.82,
+"url": "/uploads/thumbnail_cans_0402_B_final_572886f29d.jpg"
+},
+"small": {
+"name": "small_cans_0402_B_final.jpg",
+"hash": "small_cans_0402_B_final_572886f29d",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 500,
+"height": 305,
+"size": 43.67,
+"url": "/uploads/small_cans_0402_B_final_572886f29d.jpg"
+},
+"medium": {
+"name": "medium_cans_0402_B_final.jpg",
+"hash": "medium_cans_0402_B_final_572886f29d",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 750,
+"height": 458,
+"size": 97.63,
+"url": "/uploads/medium_cans_0402_B_final_572886f29d.jpg"
+},
+"large": {
+"name": "large_cans_0402_B_final.jpg",
+"hash": "large_cans_0402_B_final_572886f29d",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 1000,
+"height": 611,
+"size": 180.82,
+"url": "/uploads/large_cans_0402_B_final_572886f29d.jpg"
+}
+},
+"hash": "cans_0402_B_final_572886f29d",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"size": 987.81,
+"url": "/uploads/cans_0402_B_final_572886f29d.jpg",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-02-26T19:50:12.481Z",
+"updatedAt": "2024-02-26T19:50:12.481Z"
+}
+}
+]
+}
+}
+},
+{
+"id": 8,
+"attributes": {
+"title": "Aleph Rebrand",
+"date": null,
+"createdAt": "2024-02-29T19:40:49.307Z",
+"updatedAt": "2024-02-29T19:40:59.730Z",
+"publishedAt": "2024-02-29T19:40:59.729Z",
+"slug": "aleph-rebrand",
+"longdescription": null,
+"shortdescription": "Reimagining an imaginary brand steeped in early post modernist short stories. ",
+"specialsauce": null,
+"featuredImage": {
+"data": {
+"id": 178,
+"attributes": {
+"name": "Layer 76.png",
+"alternativeText": null,
+"caption": null,
+"width": 2160,
+"height": 2160,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_Layer 76.png",
+"hash": "thumbnail_Layer_76_3370ebc64d",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 156,
+"height": 156,
+"size": 8.21,
+"url": "/uploads/thumbnail_Layer_76_3370ebc64d.png"
+},
+"medium": {
+"name": "medium_Layer 76.png",
+"hash": "medium_Layer_76_3370ebc64d",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 750,
+"height": 750,
+"size": 63.79,
+"url": "/uploads/medium_Layer_76_3370ebc64d.png"
+},
+"small": {
+"name": "small_Layer 76.png",
+"hash": "small_Layer_76_3370ebc64d",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 500,
+"height": 500,
+"size": 41.15,
+"url": "/uploads/small_Layer_76_3370ebc64d.png"
+},
+"large": {
+"name": "large_Layer 76.png",
+"hash": "large_Layer_76_3370ebc64d",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 1000,
+"height": 1000,
+"size": 85.44,
+"url": "/uploads/large_Layer_76_3370ebc64d.png"
+}
+},
+"hash": "Layer_76_3370ebc64d",
+"ext": ".png",
+"mime": "image/png",
+"size": 39.52,
+"url": "/uploads/Layer_76_3370ebc64d.png",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-02-29T19:40:46.232Z",
+"updatedAt": "2024-02-29T19:40:46.232Z"
+}
+}
+},
+"projectImages": {
+"data": [
+{
+"id": 175,
+"attributes": {
+"name": "Layer 48.png",
+"alternativeText": null,
+"caption": null,
+"width": 2158,
+"height": 2158,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_Layer 48.png",
+"hash": "thumbnail_Layer_48_6c975c3dc9",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 156,
+"height": 156,
+"size": 16.3,
+"url": "/uploads/thumbnail_Layer_48_6c975c3dc9.png"
+},
+"small": {
+"name": "small_Layer 48.png",
+"hash": "small_Layer_48_6c975c3dc9",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 500,
+"height": 500,
+"size": 124.53,
+"url": "/uploads/small_Layer_48_6c975c3dc9.png"
+},
+"medium": {
+"name": "medium_Layer 48.png",
+"hash": "medium_Layer_48_6c975c3dc9",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 750,
+"height": 750,
+"size": 253.13,
+"url": "/uploads/medium_Layer_48_6c975c3dc9.png"
+},
+"large": {
+"name": "large_Layer 48.png",
+"hash": "large_Layer_48_6c975c3dc9",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 1000,
+"height": 1000,
+"size": 421.9,
+"url": "/uploads/large_Layer_48_6c975c3dc9.png"
+}
+},
+"hash": "Layer_48_6c975c3dc9",
+"ext": ".png",
+"mime": "image/png",
+"size": 395.21,
+"url": "/uploads/Layer_48_6c975c3dc9.png",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-02-29T19:38:16.615Z",
+"updatedAt": "2024-02-29T19:38:16.615Z"
+}
+},
+{
+"id": 167,
+"attributes": {
+"name": "Layer 31.png",
+"alternativeText": null,
+"caption": null,
+"width": 2160,
+"height": 2160,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_Layer 31.png",
+"hash": "thumbnail_Layer_31_fd403eb43e",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 156,
+"height": 156,
+"size": 14.31,
+"url": "/uploads/thumbnail_Layer_31_fd403eb43e.png"
+},
+"small": {
+"name": "small_Layer 31.png",
+"hash": "small_Layer_31_fd403eb43e",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 500,
+"height": 500,
+"size": 101.46,
+"url": "/uploads/small_Layer_31_fd403eb43e.png"
+},
+"medium": {
+"name": "medium_Layer 31.png",
+"hash": "medium_Layer_31_fd403eb43e",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 750,
+"height": 750,
+"size": 201.49,
+"url": "/uploads/medium_Layer_31_fd403eb43e.png"
+},
+"large": {
+"name": "large_Layer 31.png",
+"hash": "large_Layer_31_fd403eb43e",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 1000,
+"height": 1000,
+"size": 326.97,
+"url": "/uploads/large_Layer_31_fd403eb43e.png"
+}
+},
+"hash": "Layer_31_fd403eb43e",
+"ext": ".png",
+"mime": "image/png",
+"size": 363.79,
+"url": "/uploads/Layer_31_fd403eb43e.png",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-02-29T19:38:15.062Z",
+"updatedAt": "2024-02-29T19:38:15.062Z"
+}
+},
+{
+"id": 168,
+"attributes": {
+"name": "Layer 37.png",
+"alternativeText": null,
+"caption": null,
+"width": 2160,
+"height": 1724,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_Layer 37.png",
+"hash": "thumbnail_Layer_37_35c14ce0f8",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 195,
+"height": 156,
+"size": 35.58,
+"url": "/uploads/thumbnail_Layer_37_35c14ce0f8.png"
+},
+"small": {
+"name": "small_Layer 37.png",
+"hash": "small_Layer_37_35c14ce0f8",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 500,
+"height": 399,
+"size": 187.64,
+"url": "/uploads/small_Layer_37_35c14ce0f8.png"
+},
+"medium": {
+"name": "medium_Layer 37.png",
+"hash": "medium_Layer_37_35c14ce0f8",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 750,
+"height": 599,
+"size": 401.88,
+"url": "/uploads/medium_Layer_37_35c14ce0f8.png"
+},
+"large": {
+"name": "large_Layer 37.png",
+"hash": "large_Layer_37_35c14ce0f8",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 1000,
+"height": 798,
+"size": 691.56,
+"url": "/uploads/large_Layer_37_35c14ce0f8.png"
+}
+},
+"hash": "Layer_37_35c14ce0f8",
+"ext": ".png",
+"mime": "image/png",
+"size": 813.71,
+"url": "/uploads/Layer_37_35c14ce0f8.png",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-02-29T19:38:15.320Z",
+"updatedAt": "2024-02-29T19:38:15.320Z"
+}
+},
+{
+"id": 169,
+"attributes": {
+"name": "Layer 34.png",
+"alternativeText": null,
+"caption": null,
+"width": 2160,
+"height": 2160,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_Layer 34.png",
+"hash": "thumbnail_Layer_34_2ad0cd87cb",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 156,
+"height": 156,
+"size": 13.15,
+"url": "/uploads/thumbnail_Layer_34_2ad0cd87cb.png"
+},
+"small": {
+"name": "small_Layer 34.png",
+"hash": "small_Layer_34_2ad0cd87cb",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 500,
+"height": 500,
+"size": 111.35,
+"url": "/uploads/small_Layer_34_2ad0cd87cb.png"
+},
+"medium": {
+"name": "medium_Layer 34.png",
+"hash": "medium_Layer_34_2ad0cd87cb",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 750,
+"height": 750,
+"size": 234.09,
+"url": "/uploads/medium_Layer_34_2ad0cd87cb.png"
+},
+"large": {
+"name": "large_Layer 34.png",
+"hash": "large_Layer_34_2ad0cd87cb",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 1000,
+"height": 1000,
+"size": 416.18,
+"url": "/uploads/large_Layer_34_2ad0cd87cb.png"
+}
+},
+"hash": "Layer_34_2ad0cd87cb",
+"ext": ".png",
+"mime": "image/png",
+"size": 402.38,
+"url": "/uploads/Layer_34_2ad0cd87cb.png",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-02-29T19:38:15.325Z",
+"updatedAt": "2024-02-29T19:38:15.325Z"
+}
+},
+{
+"id": 170,
+"attributes": {
+"name": "Layer 1.png",
+"alternativeText": null,
+"caption": null,
+"width": 2160,
+"height": 2160,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_Layer 1.png",
+"hash": "thumbnail_Layer_1_35161bd9ff",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 156,
+"height": 156,
+"size": 26.52,
+"url": "/uploads/thumbnail_Layer_1_35161bd9ff.png"
+},
+"small": {
+"name": "small_Layer 1.png",
+"hash": "small_Layer_1_35161bd9ff",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 500,
+"height": 500,
+"size": 230.69,
+"url": "/uploads/small_Layer_1_35161bd9ff.png"
+},
+"medium": {
+"name": "medium_Layer 1.png",
+"hash": "medium_Layer_1_35161bd9ff",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 750,
+"height": 750,
+"size": 480.27,
+"url": "/uploads/medium_Layer_1_35161bd9ff.png"
+},
+"large": {
+"name": "large_Layer 1.png",
+"hash": "large_Layer_1_35161bd9ff",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 1000,
+"height": 1000,
+"size": 814.75,
+"url": "/uploads/large_Layer_1_35161bd9ff.png"
+}
+},
+"hash": "Layer_1_35161bd9ff",
+"ext": ".png",
+"mime": "image/png",
+"size": 825.23,
+"url": "/uploads/Layer_1_35161bd9ff.png",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-02-29T19:38:15.593Z",
+"updatedAt": "2024-02-29T19:38:15.593Z"
+}
+},
+{
+"id": 171,
+"attributes": {
+"name": "Layer 40.png",
+"alternativeText": null,
+"caption": null,
+"width": 1800,
+"height": 1936,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_Layer 40.png",
+"hash": "thumbnail_Layer_40_6e9fc876ce",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 145,
+"height": 156,
+"size": 14.89,
+"url": "/uploads/thumbnail_Layer_40_6e9fc876ce.png"
+},
+"small": {
+"name": "small_Layer 40.png",
+"hash": "small_Layer_40_6e9fc876ce",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 465,
+"height": 500,
+"size": 154.72,
+"url": "/uploads/small_Layer_40_6e9fc876ce.png"
+},
+"medium": {
+"name": "medium_Layer 40.png",
+"hash": "medium_Layer_40_6e9fc876ce",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 697,
+"height": 750,
+"size": 289.98,
+"url": "/uploads/medium_Layer_40_6e9fc876ce.png"
+},
+"large": {
+"name": "large_Layer 40.png",
+"hash": "large_Layer_40_6e9fc876ce",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 930,
+"height": 1000,
+"size": 441.36,
+"url": "/uploads/large_Layer_40_6e9fc876ce.png"
+}
+},
+"hash": "Layer_40_6e9fc876ce",
+"ext": ".png",
+"mime": "image/png",
+"size": 109.72,
+"url": "/uploads/Layer_40_6e9fc876ce.png",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-02-29T19:38:15.633Z",
+"updatedAt": "2024-02-29T19:38:15.633Z"
+}
+},
+{
+"id": 172,
+"attributes": {
+"name": "Layer 35.png",
+"alternativeText": null,
+"caption": null,
+"width": 2160,
+"height": 2160,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_Layer 35.png",
+"hash": "thumbnail_Layer_35_21324eb832",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 156,
+"height": 156,
+"size": 24.37,
+"url": "/uploads/thumbnail_Layer_35_21324eb832.png"
+},
+"small": {
+"name": "small_Layer 35.png",
+"hash": "small_Layer_35_21324eb832",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 500,
+"height": 500,
+"size": 206.89,
+"url": "/uploads/small_Layer_35_21324eb832.png"
+},
+"medium": {
+"name": "medium_Layer 35.png",
+"hash": "medium_Layer_35_21324eb832",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 750,
+"height": 750,
+"size": 440.32,
+"url": "/uploads/medium_Layer_35_21324eb832.png"
+},
+"large": {
+"name": "large_Layer 35.png",
+"hash": "large_Layer_35_21324eb832",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 1000,
+"height": 1000,
+"size": 790.56,
+"url": "/uploads/large_Layer_35_21324eb832.png"
+}
+},
+"hash": "Layer_35_21324eb832",
+"ext": ".png",
+"mime": "image/png",
+"size": 821.18,
+"url": "/uploads/Layer_35_21324eb832.png",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-02-29T19:38:15.891Z",
+"updatedAt": "2024-02-29T19:38:15.891Z"
+}
+},
+{
+"id": 173,
+"attributes": {
+"name": "Layer 24.png",
+"alternativeText": null,
+"caption": null,
+"width": 2160,
+"height": 2160,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_Layer 24.png",
+"hash": "thumbnail_Layer_24_42669c8779",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 156,
+"height": 156,
+"size": 24.35,
+"url": "/uploads/thumbnail_Layer_24_42669c8779.png"
+},
+"small": {
+"name": "small_Layer 24.png",
+"hash": "small_Layer_24_42669c8779",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 500,
+"height": 500,
+"size": 208.14,
+"url": "/uploads/small_Layer_24_42669c8779.png"
+},
+"medium": {
+"name": "medium_Layer 24.png",
+"hash": "medium_Layer_24_42669c8779",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 750,
+"height": 750,
+"size": 449.83,
+"url": "/uploads/medium_Layer_24_42669c8779.png"
+},
+"large": {
+"name": "large_Layer 24.png",
+"hash": "large_Layer_24_42669c8779",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 1000,
+"height": 1000,
+"size": 817.69,
+"url": "/uploads/large_Layer_24_42669c8779.png"
+}
+},
+"hash": "Layer_24_42669c8779",
+"ext": ".png",
+"mime": "image/png",
+"size": 858.3,
+"url": "/uploads/Layer_24_42669c8779.png",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-02-29T19:38:16.470Z",
+"updatedAt": "2024-02-29T19:38:16.470Z"
+}
+},
+{
+"id": 174,
+"attributes": {
+"name": "Layer 44.png",
+"alternativeText": null,
+"caption": null,
+"width": 2160,
+"height": 2160,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_Layer 44.png",
+"hash": "thumbnail_Layer_44_f9fc85401f",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 156,
+"height": 156,
+"size": 11.61,
+"url": "/uploads/thumbnail_Layer_44_f9fc85401f.png"
+},
+"small": {
+"name": "small_Layer 44.png",
+"hash": "small_Layer_44_f9fc85401f",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 500,
+"height": 500,
+"size": 85.12,
+"url": "/uploads/small_Layer_44_f9fc85401f.png"
+},
+"medium": {
+"name": "medium_Layer 44.png",
+"hash": "medium_Layer_44_f9fc85401f",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 750,
+"height": 750,
+"size": 178.05,
+"url": "/uploads/medium_Layer_44_f9fc85401f.png"
+},
+"large": {
+"name": "large_Layer 44.png",
+"hash": "large_Layer_44_f9fc85401f",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 1000,
+"height": 1000,
+"size": 308.9,
+"url": "/uploads/large_Layer_44_f9fc85401f.png"
+}
+},
+"hash": "Layer_44_f9fc85401f",
+"ext": ".png",
+"mime": "image/png",
+"size": 379.83,
+"url": "/uploads/Layer_44_f9fc85401f.png",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-02-29T19:38:16.486Z",
+"updatedAt": "2024-02-29T19:38:16.486Z"
+}
+},
+{
+"id": 176,
+"attributes": {
+"name": "Layer 41.png",
+"alternativeText": null,
+"caption": null,
+"width": 2160,
+"height": 2160,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_Layer 41.png",
+"hash": "thumbnail_Layer_41_1042d27b75",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 156,
+"height": 156,
+"size": 20.77,
+"url": "/uploads/thumbnail_Layer_41_1042d27b75.png"
+},
+"small": {
+"name": "small_Layer 41.png",
+"hash": "small_Layer_41_1042d27b75",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 500,
+"height": 500,
+"size": 154.97,
+"url": "/uploads/small_Layer_41_1042d27b75.png"
+},
+"medium": {
+"name": "medium_Layer 41.png",
+"hash": "medium_Layer_41_1042d27b75",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 750,
+"height": 750,
+"size": 319.56,
+"url": "/uploads/medium_Layer_41_1042d27b75.png"
+},
+"large": {
+"name": "large_Layer 41.png",
+"hash": "large_Layer_41_1042d27b75",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 1000,
+"height": 1000,
+"size": 552.42,
+"url": "/uploads/large_Layer_41_1042d27b75.png"
+}
+},
+"hash": "Layer_41_1042d27b75",
+"ext": ".png",
+"mime": "image/png",
+"size": 523.38,
+"url": "/uploads/Layer_41_1042d27b75.png",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-02-29T19:38:16.659Z",
+"updatedAt": "2024-02-29T19:38:16.659Z"
+}
+},
+{
+"id": 177,
+"attributes": {
+"name": "Layer 51.png",
+"alternativeText": null,
+"caption": null,
+"width": 2158,
+"height": 2158,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_Layer 51.png",
+"hash": "thumbnail_Layer_51_7239a2f431",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 156,
+"height": 156,
+"size": 21.05,
+"url": "/uploads/thumbnail_Layer_51_7239a2f431.png"
+},
+"small": {
+"name": "small_Layer 51.png",
+"hash": "small_Layer_51_7239a2f431",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 500,
+"height": 500,
+"size": 153.15,
+"url": "/uploads/small_Layer_51_7239a2f431.png"
+},
+"medium": {
+"name": "medium_Layer 51.png",
+"hash": "medium_Layer_51_7239a2f431",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 750,
+"height": 750,
+"size": 321.96,
+"url": "/uploads/medium_Layer_51_7239a2f431.png"
+},
+"large": {
+"name": "large_Layer 51.png",
+"hash": "large_Layer_51_7239a2f431",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 1000,
+"height": 1000,
+"size": 547.01,
+"url": "/uploads/large_Layer_51_7239a2f431.png"
+}
+},
+"hash": "Layer_51_7239a2f431",
+"ext": ".png",
+"mime": "image/png",
+"size": 508.14,
+"url": "/uploads/Layer_51_7239a2f431.png",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-02-29T19:38:16.731Z",
+"updatedAt": "2024-02-29T19:38:16.731Z"
+}
+}
+]
+}
+}
+}
+],
+"meta": {
+"pagination": {
+"page": 1,
+"pageSize": 25,
+"pageCount": 1,
+"total": 8
+}
+}
+}
