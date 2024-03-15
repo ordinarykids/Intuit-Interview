@@ -77,9 +77,9 @@
                         </p>
                     </div>
                     <div class="relative w-full md:w-1/2">
-                        <video class="h-full w-full" controls>
+                        <video class="h-full w-full">
                             <source
-                                src="/fade-glitch-720.mov"
+                                // src="/fade-glitch-720.mov"
                                 type="video/mp4"
                             />
                         </video>
